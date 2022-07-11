@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="movie_title" type="id" />
+    <item name="movie_poster" type="id" />
+    <item name="vote" type="id" />
+    <item name="popularity" type="id" />
+    <item name="movie_release_date" type="id" />
+    <item name="tv_poster" type="id" />
+    <item name="original_language" type="id" />
+</resources>
